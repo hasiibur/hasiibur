@@ -21,7 +21,7 @@
   <picture>
     <img src="#" width="">
   </picture>
-  A 24 years old Data Engineering & Machine Learning Enthusiast from Bangladesh.
+  A 24 years old STQA & DevOps Enthusiast from Bangladesh.
 </h3>
 <!-- GIF -->
 <picture>
@@ -42,13 +42,13 @@ Dhaka, Bangladesh <br>
 </details>
 
 <!-- SOCIAL -->
-<a href="https://www.linkedin.com/in/hrrryuk">
+<a href="https://www.linkedin.com/in/hrryuk" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Linkedin-0077B5?style=&logo=&logoColor="></a>
 &nbsp;
-<a href="https://www.instagram.com/hasiibur.hi">
+<a href="https://www.instagram.com/hasiibur.hi" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E1306C?&style=&logo=&logoColor=""></a>
 &nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrifat2320004@bscse.uiu.ac.bd">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hasiibur.hrr+github@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/💬%20Send%20Messsage-C5221F?style=&logo=&logoColor=""></a>
 <hr>
 
